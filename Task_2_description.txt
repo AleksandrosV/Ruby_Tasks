@@ -1,1 +1,4 @@
-2.Given the number P and the number H. The user enters a sequence of numbers. Determine: the sum of those numbers that are less than P; product of numbers greater than H; the number of numbers in the range of values ​​from P to H. When entering a number equal to P or H, stop the calculation and display the result.
+2.Given the number P and the number H. The user enters a sequence of numbers. 
+Determine: the sum of those numbers that are less than P; product of numbers greater than H; 
+the number of numbers in the range of values ​​from P to H. 
+When entering a number equal to P or H, stop the calculation and display the result.
