@@ -1,0 +1,2 @@
+Create the function is_prime, which takes 1 argument - a number from 0 to 1000, 
+and returns True if it is simple, and False - otherwise.
