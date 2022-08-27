@@ -1,0 +1,2 @@
+Depending on the user's choice, calculate the square of ​​either a rectangle, or a triangle, or a circle.
+If a rectangle or triangle is selected, the lengths of the sides should be invited; is circle, its radius.
