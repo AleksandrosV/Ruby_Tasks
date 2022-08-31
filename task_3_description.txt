@@ -1,0 +1,4 @@
+# Calculate the sums of each row and each column of the matrix. Complete it with a column 
+# that contains the sums of the elements of the rows
+# and a row whose elements are the sums of the elements of the columns.
+
