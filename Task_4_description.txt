@@ -1,0 +1,1 @@
+# Find the maximum element among the minimum elements of the matrix columns.
